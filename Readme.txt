@@ -1,7 +1,5 @@
 Cameron Bethell - A00892411 - COMP 4932 - Assignment 3
 --------------------------------------------------------
-I tried many times to create a runnable JAR but it never worked when I tried to launch it.
-
 The program is simple to use. When it is running, it will continuously try to match the best face from the database
 to the face it finds in the webcams captured image.
 
